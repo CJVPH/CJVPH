@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/CJVPH/CJVPH/main/animesher.com_one-piece-straw-hat-pirates-thousand-sunny-225861.gif" width="100%"/>
+<img src="https://raw.githubusercontent.com/CJVPH/CJVPH/main/SUNNY.png" width="80%"/>
 
 </div>
 
