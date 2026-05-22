@@ -1,6 +1,12 @@
-<img src="https://raw.githubusercontent.com/CJVPH/CJVPH/snake-output/snake.svg" alt="Snake animation" />
+<div align="center">
 
-###
+# ☠️ Welcome to My Grand Line ☠️
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2s5Y3B1Z2JwOWZ1NnQ1Y2Q4Y2h1a2d3ZXI3a3F4d2R5Z3E5dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l4EoSBIpWo73b9bW0/giphy.gif" width="250"/>
+
+### 🏴‍☠️ Future Pirate King of Programming 🏴‍☠️
+
+</div>
 <!--
 **CJVPH/CJVPH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
