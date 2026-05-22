@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/CJVPH/CJVPH/main/SUNNY.png" width="80%"/>
+<img src="https://raw.githubusercontent.com/CJVPH/CJVPH/main/SUNNY.png" width="100%"/>
 
 # ☀️ Thousand Sunny Developer Port ☀️
 
