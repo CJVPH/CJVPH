@@ -1,10 +1,12 @@
 <div align="center">
 
-# ☠️ Welcome to My Grand Line ☠️
+<img src="https://media.tenor.com/DimzPZMypFcAAAAd/one-piece-thousand-sunny.gif" width="100%"/>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2s5Y3B1Z2JwOWZ1NnQ1Y2Q4Y2h1a2d3ZXI3a3F4d2R5Z3E5dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l4EoSBIpWo73b9bW0/giphy.gif" width="250"/>
+# ☀️ Thousand Sunny Developer Port ☀️
 
-### 🏴‍☠️ Future Pirate King of Programming 🏴‍☠️
+### 🏴‍☠️ Welcome Aboard My GitHub Ship 🏴‍☠️
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F7D433&center=true&vCenter=true&width=700&lines=Future+Pirate+King+of+Programming;Flutter+Developer;Anime+Lover;IT+Student;Welcome+to+the+Grand+Line"/>
 
 </div>
 <!--
